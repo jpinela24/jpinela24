@@ -18,9 +18,9 @@ Self-taught, learning by building: PhotoShare, a shortcut/hotkey macOS widget, a
 
 **[PhotoShare](https://github.com/jpinela24/Photoshare)** — self-hosted photo & video library, Docker, Go backend + React frontend. No cloud, no subscriptions, runs on the home server below.
 
-**shortkut app** — native macOS menu bar widget (Swift) for custom shortcuts, hotkeys, and one-off scripts without leaving the menu bar.
+**[Shorkut](https://github.com/jpinela24/Shorkut)** — native macOS menu bar widget (Swift) for custom shortcuts, hotkeys, and one-off scripts without leaving the menu bar.
 
-**Homelab** — mini PC (Ubuntu, Docker) handling the heavy services, a Raspberry Pi 4 running dedicated DNS. Plex, PhotoShare, and a handful of other self-hosted services, with Tailscale for remote access (no port forwarding).
+**Homelab** — mini PC (Ubuntu, Docker) handling the heavy services, a Raspberry Pi 4 running dedicated DNS. Jellyfin, PhotoShare, and a handful of other self-hosted services, with Tailscale for remote access (no port forwarding). Currently building out a 4-node Raspberry Pi Kubernetes cluster on the side — not stable yet.
 
 ---
 
